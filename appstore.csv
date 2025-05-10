@@ -1,0 +1,61 @@
+app_name,category,developer,release_date,rating,reviews,downloads_est,price,update_frequency_days,lines_of_code
+StreamNow,Video Streaming,NextGen Devs,2021-09-23,4.25,576,5058979,Paid,11,176185
+MusicPulse,Music,PixelStream,2023-09-16,3.87,5312,562586,Free,30,171423
+VidVibe,Music,SonicWare,2024-07-09,3.48,13340,4997253,Paid,69,365718
+PlayMax,Music,Appify,2023-01-21,4.96,33994,2368129,Paid,83,223339
+EchoTunes,Video Streaming,SonicWare,2022-12-01,3.99,9612,6770974,Free,67,295028
+CineFlow,Video Streaming,PixelStream,2022-03-10,3.99,6618,1755064,Paid,14,221491
+GrooveWave,Music,Appify,2021-05-12,4.86,38631,5119331,Paid,29,62381
+FlickCast,Music,MediaSoft,2021-04-22,3.27,33072,3312158,Free,7,447244
+BeatCloud,Music,PixelStream,2021-05-03,4.9,38056,2117818,Paid,57,273054
+WatchIt,Video Streaming,SonicWare,2023-05-29,3.5,25420,3436459,Paid,36,193181
+TuneStream,Podcasts,PixelStream,2024-06-07,3.02,44233,8977748,Free,40,65346
+PodHero,Video Streaming,PixelStream,2023-11-02,4.08,45464,3610708,Paid,89,367588
+ReelPlay,Podcasts,MediaSoft,2022-03-13,4.2,37209,5335744,Free,19,499309
+MixHub,Video Streaming,MediaSoft,2022-11-20,4.36,17601,948996,Free,41,93896
+StreamStack,Music,PixelStream,2023-01-25,3.62,15073,7593538,Paid,17,112150
+GrooveZone,Music,SonicWare,2022-11-16,4.56,47691,7380369,Free,13,99200
+WaveRush,Video Streaming,NextGen Devs,2022-09-27,3.4,24130,2386557,Paid,64,34905
+ClipJive,Music,Appify,2024-07-26,3.13,15894,8372035,Paid,34,360541
+MusicNest,Music,MediaSoft,2021-09-21,3.27,39098,1071125,Paid,44,244171
+CastFlow,Podcasts,PixelStream,2024-04-07,4.75,9024,6469257,Paid,10,37312
+StreamLab,Music,Studio_1,09/11/2022,2.6,30604,4235670,Paid,58,98296
+EchoCast,Video Streaming,Studio_2,03/27/2024,4.82,39105,5728361,Free,87,263864
+PulseAudio,Other,Studio_3,09/12/2023,4.55,5130,3973610,Paid,83,33790
+ReelCast,Podcasts,Studio_4,08/24/2024,2.91,41555,1704013,Paid,89,296875
+VidZen,Music,Studio_5,11/24/2023,2.85,15587,146986,Free,36,382094
+Loopify,Podcasts,Studio_6,12/16/2024,2.96,31030,5210767,Paid,56,419218
+SnapTune,Podcasts,Studio_7,09/06/2022,3.51,34936,3692540,Paid,7,467677
+BuzzMic,Music,Studio_8,10/10/2024,4.24,31308,799072,Free,17,166856
+AmpTube,Music,Studio_9,12/20/2024,3.44,9476,5989743,Free,17,30172
+MixSnap,Podcasts,Studio_10,06/06/2024,3.35,2094,5048248,Paid,35,329954
+GlowStream,Podcasts,Studio_11,06/20/2023,4.58,19393,9512248,Paid,46,266259
+NovaCast,Music,Studio_12,05/17/2024,4.54,46915,2224283,Paid,52,118873
+BeatVibe,Video Streaming,Studio_13,09/17/2022,3.91,32292,8583066,Free,58,147771
+TuneVerse,Music,Studio_14,11/28/2023,3.29,32177,227914,Paid,70,325591
+WaveCloud,Podcasts,Studio_15,02/14/2025,3.05,48386,3793799,Paid,22,216881
+Flowify,Podcasts,Studio_16,03/11/2023,4.38,3982,5826880,Free,79,318561
+FlickStation,Music,Studio_17,07/03/2024,4.58,4738,6998578,Paid,74,80977
+PodHive,Video Streaming,Studio_18,07/22/2024,4.23,11004,7142629,Free,76,220234
+ZoomPlay,Other,Studio_19,05/21/2024,3.02,5845,7028267,Free,57,80235
+BeatZone,Podcasts,Studio_20,10/09/2023,4.18,36677,1469407,Free,28,293195
+ChimeStream,Music,Studio_21,08/16/2024,3.23,36732,1752911,Paid,42,401817
+PopWave,Video Streaming,Studio_22,10/15/2023,4.67,40371,5569540,Paid,18,48339
+GrooveNet,Other,Studio_23,01/24/2025,2.83,28667,9523534,Free,10,219872
+LofiLab,Podcasts,Studio_24,06/11/2024,2.77,16968,7755968,Free,48,65747
+Shuffly,Podcasts,Studio_25,04/07/2023,3.21,4538,7756214,Paid,77,208565
+CastCorner,Video Streaming,Studio_26,02/11/2024,2.94,47194,1018341,Free,35,190394
+ShowSpark,Podcasts,Studio_27,07/06/2023,4.1,21612,1474640,Free,12,12951
+TalkNet,Music,Studio_28,12/27/2023,2.73,12661,9657438,Paid,75,197646
+TuneTide,Video Streaming,Studio_29,02/17/2024,3.43,23631,7452773,Free,64,240051
+VidMate,Podcasts,Studio_30,05/05/2024,2.58,7574,9194092,Free,61,435950
+Soundly,Other,Studio_31,11/13/2022,2.96,27642,7562058,Paid,48,131053
+VibeLoop,Video Streaming,Studio_32,09/20/2023,4.43,24686,7644579,Paid,34,353376
+RiffCast,Other,Studio_33,10/02/2023,3.89,30858,3504308,Free,8,40735
+EchoPlay,Music,Studio_34,03/01/2024,2.8,32593,5493447,Paid,52,426804
+FlexSound,Video Streaming,Studio_35,11/28/2022,3.67,47660,5497579,Free,60,205070
+AmpPlay,Podcasts,Studio_36,03/20/2023,3.59,9117,3910592,Paid,69,272500
+ReelSound,Other,Studio_37,10/06/2023,4.67,13488,2129523,Free,81,286057
+PodCraft,Music,Studio_38,06/01/2024,3.1,38840,9247536,Paid,37,460359
+JiveStream,Video Streaming,Studio_39,11/10/2022,4.43,13751,9838142,Free,9,57431
+TuneNest,Music,Studio_40,06/08/2024,3.19,49609,1991998,Free,14,108567
